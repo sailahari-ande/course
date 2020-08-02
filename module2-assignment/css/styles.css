@@ -44,7 +44,8 @@
 			position:absolute;
 			top:0;
 			right:0;
-			border:1px  solid black;
+			border-left:1px  solid black;
+			border-bottom:1px solid black;
 		    text-align:center;
 		    padding:5px;
 		}
@@ -63,4 +64,7 @@
 		}
 		h1{
   			text-align: center;
+		}
+		h4{
+			margin:0px;
 		}
