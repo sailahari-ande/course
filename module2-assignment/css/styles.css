@@ -41,7 +41,7 @@
 			width:100%;
 		}
 		#id1,#id2,#id3{
-			position:absolute;
+			position: absolute;
 			top:0;
 			right:0;
 			border-left:1px  solid black;
